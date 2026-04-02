@@ -28,7 +28,7 @@ This project is a computer vision-based system that detects waste in drainage us
 - Alert when bin is full
 
 ## 🎥 Demo Video
-[Click here to watch demo](https://drive.google.com/file/d/1iXaMx6dm37mfplImnQ7mxwusHQ2fr30p/view?usp=drive_link)
+[Click here to watch demo](https://drive.google.com/file/d/1c_aFaigLpupFCribSf4E0fGYoI-Wusl1/view?usp=drive_link)
 
 ## Future Scope
 - Integration with IoT devices
